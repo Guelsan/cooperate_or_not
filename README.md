@@ -13,8 +13,8 @@ An agent is faced with the decision to _cooporate_ or _not cooperate_. To come t
 
 |                          | A cooperates  | A  does not cooperate |
 |--------------------------|---------------|-----------------------|
-| **B cooperates**         | A: +1,  B: +1 | A: +5,  B: +0         |
-| **B does not cooperate** | A: +0,  B: +5 | A: +3,  B: +3         |
+| **B cooperates**         | A: +3,  B: +3 | A: +5,  B: +0         |
+| **B does not cooperate** | A: +0,  B: +5 | A: +1,  B: +1         |
 
 
 To get started, download the files and have a look at the two example agents. "naive_agent.py" and "random_agent.py" can be used as templates. All necessary information is included as comments in "naive_agent.py".
